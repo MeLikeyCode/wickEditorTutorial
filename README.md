@@ -1,5 +1,5 @@
 # wickEditorTutorial
-Save file for the zombie shooter that I present in a Wick editor (tool for creating interactive web apps) tutorial I made.
+Save file for the zombie shooter that I present in a Wick editor tutorial I made.
 
 To load the file, just click `file` -> `open project` in the Wick editor and select my save file.
 
