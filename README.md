@@ -5,7 +5,7 @@ To load the file, just click `file` -> `open project` in the Wick editor and sel
 
 To run the game, click `run`.
 
-Here is a link to the video tutorial showing you
+[Here](https://www.youtube.com/watch?v=aGRNb0tdwWM) is a link to the video tutorial showing you
 1. A demo of the zombie shooter I made.
 2. A somewhat quick (~30 minute) tutorial showing you how to make the basics of the game in the Wick editor.
   
